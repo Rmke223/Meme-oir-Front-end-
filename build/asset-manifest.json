@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6dcd0803.chunk.css",
+    "main.js": "/static/js/main.edd84094.chunk.js",
+    "main.js.map": "/static/js/main.edd84094.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.547dc754.js",
+    "runtime-main.js.map": "/static/js/runtime-main.547dc754.js.map",
+    "static/css/2.7000d517.chunk.css": "/static/css/2.7000d517.chunk.css",
+    "static/js/2.cad60f09.chunk.js": "/static/js/2.cad60f09.chunk.js",
+    "static/js/2.cad60f09.chunk.js.map": "/static/js/2.cad60f09.chunk.js.map",
+    "static/js/3.6ed581dd.chunk.js": "/static/js/3.6ed581dd.chunk.js",
+    "static/js/3.6ed581dd.chunk.js.map": "/static/js/3.6ed581dd.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.7000d517.chunk.css.map": "/static/css/2.7000d517.chunk.css.map",
+    "static/css/main.6dcd0803.chunk.css.map": "/static/css/main.6dcd0803.chunk.css.map",
+    "static/js/2.cad60f09.chunk.js.LICENSE.txt": "/static/js/2.cad60f09.chunk.js.LICENSE.txt",
+    "static/media/MEME.ba717381.gif": "/static/media/MEME.ba717381.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.547dc754.js",
+    "static/css/2.7000d517.chunk.css",
+    "static/js/2.cad60f09.chunk.js",
+    "static/css/main.6dcd0803.chunk.css",
+    "static/js/main.edd84094.chunk.js"
+  ]
+}
